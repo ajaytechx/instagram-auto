@@ -1,0 +1,4 @@
+pyautogui==0.9.54
+pillow==10.2.0
+pyperclip==1.8.2
+opencv-python==4.9.0.80 
